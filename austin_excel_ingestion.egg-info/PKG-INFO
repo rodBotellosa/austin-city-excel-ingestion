@@ -1,3 +1,44 @@
+Metadata-Version: 2.4
+Name: austin-excel-ingestion
+Version: 0.1.0
+Summary: A Python tool for ingesting and parsing Excel documents
+Author: Rodrigo Botello
+Project-URL: Bug Reports, https://github.com/rodBotellosa/austin-city-excel-ingestion/issues
+Project-URL: Source, https://github.com/rodBotellosa/austin-city-excel-ingestion
+Keywords: excel parsing ingestion pandas
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Topic :: Text Processing :: Markup
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: pandas>=2.2.0
+Requires-Dist: openpyxl>=3.1.2
+Requires-Dist: pydantic>=2.5.2
+Requires-Dist: python-dotenv>=1.0.0
+Requires-Dist: click>=8.1.7
+Requires-Dist: rich>=13.7.0
+Requires-Dist: typer>=0.9.0
+Requires-Dist: loguru>=0.7.2
+Requires-Dist: pyarrow>=14.0.2
+Requires-Dist: regex>=2023.10.3
+Dynamic: author
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: keywords
+Dynamic: project-url
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
 # Austin City Excel Ingestion Tool
 
 A Python tool for ingesting structured Excel files and converting them to JSON and Parquet formats with comprehensive metadata extraction.
