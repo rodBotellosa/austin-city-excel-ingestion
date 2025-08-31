@@ -1,0 +1,321 @@
+[
+    {
+        "doc_id": "ecm",
+        "anchor": "1.7.5",
+        "node_id": "1.7.5",
+        "title": "1.7.5",
+        "subtitle": "Restoration",
+        "content": "A.\n            \n            Requirements\n            \n            Restoration of floodplain health as prescribed by this section is required for any\n            proposed floodplain modification that does not qualify for one of the following exemptions:\n\n               (1)\n\n               the floodplain modifications proposed are necessary to protect the public health and\n               safety;\n\n               (2)\n\n               the floodplain modifications proposed would provide a significant, demonstrable environmental\n               benefit, as determined by a functional assessment of floodplain health; or\n\n               (3)\n\n               the floodplain modifications proposed are necessary for development allowed in the\n               Critical Water Quality Zone under Section 25-8-261 (Critical Water Quality Zone Development)\n               or Section 25-8-262 (Critical Water Quality Zone Street Crossings).\n\n            Outside of these exemptions, proposed modifications that would require restoration\n            of floodplain health include:\n\n               (1)\n\n               a modification of a floodplain that is outside of the Critical Water Quality Zone\n               and a Zone 1 functional assessment shows to be in poor or fair condition; or\n\n               (2)\n\n               a proposed modification that is seeking a variance from the land use commission.\n\n            Where possible, the required restoration shall always be located within the Critical\n            Water Quality Zone adjacent to the proposed area of modification. If the site does\n            not have enough area within the adjacent Critical Water Quality Zone to meet the restoration\n            requirements or a Zone 2 functional assessment shows the Critical Water Quality Zone\n            is already in good condition or better, then the required restoration may be located\n            in the floodplain outside of the Critical Water Quality Zone. If the site does not\n            have enough floodplain area outside of the Critical Water Quality Zone to meet the\n            restoration requirements or a Zone 1 functional assessment shows the floodplain is\n            already in good condition or better, then mitigation shall be provided off-site (see\n            Section 1.7.6).\n            \n            The amount of area that is required to be restored shall be proportionate to the amount\n            of area within the existing floodplain that is proposed to be modified, as shown in\n            the table below. Depending on the condition of the area being modified, X square feet\n            must be restored for every 1 square feet modified (for a ratio of X:1). There is a\n            multiplier of two for modifications within the Critical Water Quality Zone. In addition,\n            any disturbed areas will need to comply with the vegetative stabilization requirements\n            of Section 1.4.0 (Erosion and Sedimentation Control Criteria).\n\n                              Condition of the Area Proposed for Floodplain Modification (as determined by Functional\n                                 Assessment)\n\n                              Location of Proposed Modification\n\n                              Outside Critical Water Quality Zone\n\n                              Critical Water Quality Zone\n\n                              Good or Excellent\n\n                              4:1*\n\n                              8:1*\n\n                              Fair\n\n                              3:1\n\n                              6:1*\n\n                              Poor\n\n                              2:1\n\n                              4:1*\n\n               &nbsp;\n\n            *Not allowed by Code without a variance from the land use commission.\n            \n            The applicant shall prepare and submit a Riparian Restoration Plan to be reviewed\n            and approved by the Watershed Protection Department as part of the Site Development\n            Permit. A restoration plan must contain the following minimum components:\n\n               \u2022\u2002Soil Amendments\n\n               \u2022\u2002Native Species Seeding\n\n               \u2022\u2002Tree Seedling Planting\n\n               \u2022\u2002Exotic Invasive Species Control\n\n               \u2022\u2002Ragweed Management\n\n               \u2022\u2002Performance Criteria\n\n            During the course of inspections and field observations, adjustments to the Riparian\n            Restoration Plan may be required. The plan may be amended with the submission of additional\n            or amended parts of the plan and approval by the Watershed Protection Department.\n            \n            Riparian restoration will likely need additional time beyond the period of construction\n            to successfully elevate the function of the restored area to a good condition. Projects\n            which have not completed the riparian restoration process before the final environmental\n            inspection may enter into a Developer's Agreement for up to three years. The fiscal\n            posting amount for the Developer's Agreement shall be based on contractor estimates\n            of current cost for the materials and labor for installation and maintenance outlined\n            in the approved Riparian Restoration Plan. The estimates must be dated within 12 months\n            of the request for an agreement and must list suppliers who can provide the required\n            items. A certified estimate must be submitted to the City of Austin Environmental\n            Inspector by a landscape architect or professional engineer for review and acceptance\n            before a Developer's Agreement is written. The fiscal is returned only after a concurrence\n            letter for restoration is received and the final inspection is passed.\n            \n            B.\n            \n            Restoration Guidance\n            \n            The overall goal of the restoration should be to elevate the function of the restored\n            area from poor or fair condition to good. Restoration of floodplain function should\n            focus on a passive approach that promotes managed succession and a minimal need for\n            ongoing management. Restoration strategies and plant palettes will vary depending\n            on the zone (hydric vs. mesic), the ecoregion (Edwards Plateau vs. Blackland Prairie),\n            and the drainage area (minor vs. major waterways). Strategies should include simple,\n            straightforward techniques such as seeding, bare-root saplings, invasive removal,\n            and soil amendments rather than a more formal design involving containerized plants\n            and irrigation. Once completed, projects should demarcate restoration areas with signage\n            or boulders to prevent future clearing or mowing.\n            \n            C.\n            \n            Channel Design\n            \n            Where modification of the channel is permitted (e.g., necessary to protect public\n            health and safety, significant, demonstrable environmental benefit), design criteria,\n            calculation of flood flows and limiting velocities shall be in accordance with the\n            Drainage Criteria Manual. Innovative methods of design and construction which are\n            intended to emulate natural watercourses, promote channel stability, preserve existing\n            vegetation, preserve or improve in-stream aquatic habitat, and protect mature riparian\n            landscapes are encouraged, subject to approval by the Watershed Protection Department.\n            \n            Source: Rule No. R161-14.08, 3-5-2014.",
+        "url": "https://library.municode.com/TX/Austin/codes/Environmental_Criteria_Manual?nodeId=S1WAQUMA_1.7.0FLMOCR_1.7.5RE",
+        "path": [
+        "section-1",
+        "1.7.0",
+        "1.7.5"
+        ],
+        "parent_anchor": "1.7.0",
+        "block_type": "HEADING",
+        "section_labels": {
+        "section": "section-1",
+        "chapter": "1.7.0",
+        "subsection": "1.7.5"
+        },
+        "order": 1007005,
+        "tokens": 1307,
+        "confidence": 0.9,
+        "refs": [
+        {
+            "text": "Section 25-8-261",
+            "span": [
+            785,
+            801
+            ],
+            "type": "CODE"
+        },
+        {
+            "text": "Section 25-8-262",
+            "span": [
+            862,
+            878
+            ],
+            "type": "CODE"
+        }
+        ],
+        "hash": "sha256:28d8d2ae079fa8f960e410704b150b4502297470ff31fe5ea992abacf7de1aad",
+        "ingested_at": "2025-08-25T23:03:34.286400",
+        "source": {
+        "type": "excel",
+        "file": "AustinTXEnvironmentalCriteriaManualEXPORT20250102.xlsx"
+        },
+        "semantic_path": [
+        "water quality management",
+        "1.7.0: floodplain modification criteria",
+        "1.7.5: restoration"
+        ],
+        "semantic_path_string": "water quality management > 1.7.0: floodplain modification criteria > 1.7.5: restoration",
+        "has_children": true,
+        "child_count": 6
+    },
+    {
+        "doc_id": "ecm",
+        "anchor": "1.7.5_A",
+        "node_id": "1.7.5",
+        "title": "1.7.5",
+        "subtitle": "Restoration",
+        "content": "A. Requirements\n            \n            Restoration of floodplain health as prescribed by this section is required for any\n            proposed floodplain modification that does not qualify for one of the following exemptions:\n\n               (1)\n\n               the floodplain modifications proposed are necessary to protect the public health and\n               safety;\n\n               (2)\n\n               the floodplain modifications proposed would provide a significant, demonstrable environmental\n               benefit, as determined by a functional assessment of floodplain health; or\n\n               (3)\n\n               the floodplain modifications proposed are necessary for development allowed in the\n               Critical Water Quality Zone under Section 25-8-261 (Critical Water Quality Zone Development)\n               or Section 25-8-262 (Critical Water Quality Zone Street Crossings). Outside of these exemptions, proposed modifications that would require restoration\n            of floodplain health include:\n\n               (1)\n\n               a modification of a floodplain that is outside of the Critical Water Quality Zone\n               and a Zone 1 functional assessment shows to be in poor or fair condition; or\n\n               (2)\n\n               a proposed modification that is seeking a variance from the land use commission.",
+        "url": "https://library.municode.com/TX/Austin/codes/Environmental_Criteria_Manual?nodeId=S1WAQUMA_1.7.0FLMOCR_1.7.5RE",
+        "path": [
+        "section-1",
+        "1.7.0",
+        "1.7.5",
+        "1.7.5_A"
+        ],
+        "parent_anchor": "1.7.5",
+        "block_type": "PARA",
+        "section_labels": {
+        "section": "section-1",
+        "chapter": "1.7.0",
+        "subsection": "1.7.5"
+        },
+        "order": 1007005001,
+        "tokens": 227,
+        "confidence": 0.8999999999999999,
+        "refs": [
+        {
+            "text": "Section 25-8-261",
+            "span": [
+            760,
+            776
+            ],
+            "type": "CODE"
+        },
+        {
+            "text": "Section 25-8-262",
+            "span": [
+            837,
+            853
+            ],
+            "type": "CODE"
+        }
+        ],
+        "hash": "sha256:ecb26ad97a8591a3d89be569f37b77258403342ab9f426c03216a605074415e2",
+        "ingested_at": "2025-08-25T23:03:34.286400",
+        "source": {
+        "type": "excel",
+        "file": "AustinTXEnvironmentalCriteriaManualEXPORT20250102.xlsx"
+        },
+        "chunk_meta": {
+        "chunk_no": 1,
+        "chunk_count": 6,
+        "char_span": [
+            0,
+            1353
+        ],
+        "est_tokens": 227
+        }
+    },
+    {
+        "doc_id": "ecm",
+        "anchor": "1.7.5_B",
+        "node_id": "1.7.5",
+        "title": "1.7.5",
+        "subtitle": "Restoration",
+        "content": "from the land use commission. Where possible, the required restoration shall always be located within the Critical\n            Water Quality Zone adjacent to the proposed area of modification. If the site does\n            not have enough area within the adjacent Critical Water Quality Zone to meet the restoration\n            requirements or a Zone 2 functional assessment shows the Critical Water Quality Zone\n            is already in good condition or better, then the required restoration may be located\n            in the floodplain outside of the Critical Water Quality Zone. If the site does not\n            have enough floodplain area outside of the Critical Water Quality Zone to meet the\n            restoration requirements or a Zone 1 functional assessment shows the floodplain is\n            already in good condition or better, then mitigation shall be provided off-site (see\n            Section 1.7.6). The amount of area that is required to be restored shall be proportionate to the amount\n            of area within the existing floodplain that is proposed to be modified, as shown in\n            the table below. Depending on the condition of the area being modified, X square feet\n            must be restored for every 1 square feet modified (for a ratio of X:1).",
+        "url": "https://library.municode.com/TX/Austin/codes/Environmental_Criteria_Manual?nodeId=S1WAQUMA_1.7.0FLMOCR_1.7.5RE",
+        "path": [
+        "section-1",
+        "1.7.0",
+        "1.7.5",
+        "1.7.5_B"
+        ],
+        "parent_anchor": "1.7.5",
+        "block_type": "PARA",
+        "section_labels": {
+        "section": "section-1",
+        "chapter": "1.7.0",
+        "subsection": "1.7.5"
+        },
+        "order": 1007005002,
+        "tokens": 242,
+        "confidence": 0.7999999999999999,
+        "refs": [],
+        "hash": "sha256:137b5ed1ca6a217d8f06f19bfd9c2c4d7ad7f8480f1d467937ff7ecfe5f4195e",
+        "ingested_at": "2025-08-25T23:03:34.286400",
+        "source": {
+        "type": "excel",
+        "file": "AustinTXEnvironmentalCriteriaManualEXPORT20250102.xlsx"
+        },
+        "chunk_meta": {
+        "chunk_no": 2,
+        "chunk_count": 6,
+        "char_span": [
+            0,
+            1284
+        ],
+        "est_tokens": 242
+        }
+    },
+    {
+        "doc_id": "ecm",
+        "anchor": "1.7.5_C",
+        "node_id": "1.7.5",
+        "title": "1.7.5",
+        "subtitle": "Restoration",
+        "content": "(for a ratio of X:1). There is a\n            multiplier of two for modifications within the Critical Water Quality Zone. In addition,\n            any disturbed areas will need to comply with the vegetative stabilization requirements\n            of Section 1.4.0 (Erosion and Sedimentation Control Criteria). Condition of the Area Proposed for Floodplain Modification (as determined by Functional\n                                 Assessment)\n\n                              Location of Proposed Modification\n\n                              Outside Critical Water Quality Zone\n\n                              Critical Water Quality Zone\n\n                              Good or Excellent\n\n                              4:1*\n\n                              8:1*\n\n                              Fair\n\n                              3:1\n\n                              6:1*\n\n                              Poor\n\n                              2:1\n\n                              4:1*\n\n               &nbsp;\n\n            *Not allowed by Code without a variance from the land use commission. The applicant shall prepare and submit a Riparian Restoration Plan to be reviewed\n            and approved by the Watershed Protection Department as part of the Site Development\n            Permit.",
+        "url": "https://library.municode.com/TX/Austin/codes/Environmental_Criteria_Manual?nodeId=S1WAQUMA_1.7.0FLMOCR_1.7.5RE",
+        "path": [
+        "section-1",
+        "1.7.0",
+        "1.7.5",
+        "1.7.5_C"
+        ],
+        "parent_anchor": "1.7.5",
+        "block_type": "PARA",
+        "section_labels": {
+        "section": "section-1",
+        "chapter": "1.7.0",
+        "subsection": "1.7.5"
+        },
+        "order": 1007005003,
+        "tokens": 200,
+        "confidence": 0.7999999999999999,
+        "refs": [],
+        "hash": "sha256:c64f8ec3c6fdad3e51d95fd676b9c4bc5295a2a2a614a7b02fffc3af40a0db31",
+        "ingested_at": "2025-08-25T23:03:34.286400",
+        "source": {
+        "type": "excel",
+        "file": "AustinTXEnvironmentalCriteriaManualEXPORT20250102.xlsx"
+        },
+        "chunk_meta": {
+        "chunk_no": 3,
+        "chunk_count": 6,
+        "char_span": [
+            0,
+            1270
+        ],
+        "est_tokens": 200
+        }
+    },
+    {
+        "doc_id": "ecm",
+        "anchor": "1.7.5_D",
+        "node_id": "1.7.5",
+        "title": "1.7.5",
+        "subtitle": "Restoration",
+        "content": "of the Site Development Permit. A restoration plan must contain the following minimum components:\n\n               \u2022\u2002Soil Amendments\n\n               \u2022\u2002Native Species Seeding\n\n               \u2022\u2002Tree Seedling Planting\n\n               \u2022\u2002Exotic Invasive Species Control\n\n               \u2022\u2002Ragweed Management\n\n               \u2022\u2002Performance Criteria\n\n            During the course of inspections and field observations, adjustments to the Riparian\n            Restoration Plan may be required. The plan may be amended with the submission of additional\n            or amended parts of the plan and approval by the Watershed Protection Department. Riparian restoration will likely need additional time beyond the period of construction\n            to successfully elevate the function of the restored area to a good condition. Projects\n            which have not completed the riparian restoration process before the final environmental\n            inspection may enter into a Developer's Agreement for up to three years. The fiscal\n            posting amount for the Developer's Agreement shall be based on contractor estimates\n            of current cost for the materials and labor for installation and maintenance outlined\n            in the approved Riparian Restoration Plan.",
+        "url": "https://library.municode.com/TX/Austin/codes/Environmental_Criteria_Manual?nodeId=S1WAQUMA_1.7.0FLMOCR_1.7.5RE",
+        "path": [
+        "section-1",
+        "1.7.0",
+        "1.7.5",
+        "1.7.5_D"
+        ],
+        "parent_anchor": "1.7.5",
+        "block_type": "PARA",
+        "section_labels": {
+        "section": "section-1",
+        "chapter": "1.7.0",
+        "subsection": "1.7.5"
+        },
+        "order": 1007005004,
+        "tokens": 223,
+        "confidence": 0.7999999999999999,
+        "refs": [],
+        "hash": "sha256:23d1fabc4089a41e8b2b8fea543bb4731835b45d63107a119363d83bae0de816",
+        "ingested_at": "2025-08-25T23:03:34.286400",
+        "source": {
+        "type": "excel",
+        "file": "AustinTXEnvironmentalCriteriaManualEXPORT20250102.xlsx"
+        },
+        "chunk_meta": {
+        "chunk_no": 4,
+        "chunk_count": 6,
+        "char_span": [
+            0,
+            1269
+        ],
+        "est_tokens": 223
+        }
+    },
+    {
+        "doc_id": "ecm",
+        "anchor": "1.7.5_E",
+        "node_id": "1.7.5",
+        "title": "1.7.5",
+        "subtitle": "Restoration",
+        "content": "the approved Riparian Restoration Plan. The estimates must be dated within 12 months\n            of the request for an agreement and must list suppliers who can provide the required\n            items. A certified estimate must be submitted to the City of Austin Environmental\n            Inspector by a landscape architect or professional engineer for review and acceptance\n            before a Developer's Agreement is written. The fiscal is returned only after a concurrence\n            letter for restoration is received and the final inspection is passed. B. Restoration Guidance\n            \n            The overall goal of the restoration should be to elevate the function of the restored\n            area from poor or fair condition to good. Restoration of floodplain function should\n            focus on a passive approach that promotes managed succession and a minimal need for\n            ongoing management. Restoration strategies and plant palettes will vary depending\n            on the zone (hydric vs. mesic), the ecoregion (Edwards Plateau vs. Blackland Prairie),\n            and the drainage area (minor vs. major waterways). Strategies should include simple,\n            straightforward techniques such as seeding, bare-root saplings, invasive removal,\n            and soil amendments rather than a more formal design involving containerized plants\n            and irrigation.",
+        "url": "https://library.municode.com/TX/Austin/codes/Environmental_Criteria_Manual?nodeId=S1WAQUMA_1.7.0FLMOCR_1.7.5RE",
+        "path": [
+        "section-1",
+        "1.7.0",
+        "1.7.5",
+        "1.7.5_E"
+        ],
+        "parent_anchor": "1.7.5",
+        "block_type": "PARA",
+        "section_labels": {
+        "section": "section-1",
+        "chapter": "1.7.0",
+        "subsection": "1.7.5"
+        },
+        "order": 1007005005,
+        "tokens": 246,
+        "confidence": 0.7999999999999999,
+        "refs": [],
+        "hash": "sha256:0a730be746cb26735a2c8e314358c938f5eb772eb6618bbdfc26c704e229cd73",
+        "ingested_at": "2025-08-25T23:03:34.286400",
+        "source": {
+        "type": "excel",
+        "file": "AustinTXEnvironmentalCriteriaManualEXPORT20250102.xlsx"
+        },
+        "chunk_meta": {
+        "chunk_no": 5,
+        "chunk_count": 6,
+        "char_span": [
+            0,
+            1394
+        ],
+        "est_tokens": 246
+        }
+    },
+    {
+        "doc_id": "ecm",
+        "anchor": "1.7.5_F",
+        "node_id": "1.7.5",
+        "title": "1.7.5",
+        "subtitle": "Restoration",
+        "content": "involving containerized plants and irrigation. Once completed, projects should demarcate restoration areas with signage\n            or boulders to prevent future clearing or mowing. C. Channel Design\n            \n            Where modification of the channel is permitted (e.g., necessary to protect public\n            health and safety, significant, demonstrable environmental benefit), design criteria,\n            calculation of flood flows and limiting velocities shall be in accordance with the\n            Drainage Criteria Manual. Innovative methods of design and construction which are\n            intended to emulate natural watercourses, promote channel stability, preserve existing\n            vegetation, preserve or improve in-stream aquatic habitat, and protect mature riparian\n            landscapes are encouraged, subject to approval by the Watershed Protection Department. Source: Rule No. R161-14.08, 3-5-2014.",
+        "url": "https://library.municode.com/TX/Austin/codes/Environmental_Criteria_Manual?nodeId=S1WAQUMA_1.7.0FLMOCR_1.7.5RE",
+        "path": [
+        "section-1",
+        "1.7.0",
+        "1.7.5",
+        "1.7.5_F"
+        ],
+        "parent_anchor": "1.7.5",
+        "block_type": "PARA",
+        "section_labels": {
+        "section": "section-1",
+        "chapter": "1.7.0",
+        "subsection": "1.7.5"
+        },
+        "order": 1007005006,
+        "tokens": 169,
+        "confidence": 0.7999999999999999,
+        "refs": [],
+        "hash": "sha256:538d9882c11379a4b2f5c73edfd249eda511759281a5ea69868b7f8e901b1d6b",
+        "ingested_at": "2025-08-25T23:03:34.286400",
+        "source": {
+        "type": "excel",
+        "file": "AustinTXEnvironmentalCriteriaManualEXPORT20250102.xlsx"
+        },
+        "chunk_meta": {
+        "chunk_no": 6,
+        "chunk_count": 6,
+        "char_span": [
+            0,
+            929
+        ],
+        "est_tokens": 169
+        }
+  }
+]

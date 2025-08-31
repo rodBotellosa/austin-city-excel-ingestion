@@ -14,6 +14,8 @@ from loguru import logger
 
 from .excel_parser import ExcelParser
 from .models import ExcelIngestionConfig
+from .chunker import process_jsonl_with_chunking
+from .semantic_path_builder import enhance_records_with_semantic_paths
 
 # Initialize Typer app
 app = typer.Typer(
@@ -212,6 +214,62 @@ def preview(
         
     except Exception as e:
         console.print(f"[red]Preview failed: {e}[/red]")
+        raise typer.Exit(1)
+
+
+@app.command()
+def chunk(
+    input_file: str = typer.Argument(..., help="Path to input JSONL file"),
+    output_file: str = typer.Option(None, "--output", "-o", help="Output file path"),
+    max_tokens: int = typer.Option(300, "--max-tokens", "-t", help="Maximum tokens per chunk"),
+    verbose: bool = typer.Option(False, "--verbose", "-v", help="Enable verbose logging")
+):
+    """
+    Apply hierarchical chunking to long content in JSONL file.
+    """
+    try:
+        # Set output file if not provided
+        if not output_file:
+            output_file = input_file.replace('.jsonl', '_chunked.jsonl')
+        
+        console.print(f"[cyan]Applying hierarchical chunking to: {input_file}[/cyan]")
+        console.print(f"Output file: {output_file}")
+        console.print(f"Max tokens per chunk: {max_tokens}")
+        
+        # Process the file
+        process_jsonl_with_chunking(input_file, output_file, max_tokens)
+        
+        console.print(f"\n[green]✓ Chunking completed successfully[/green]")
+        
+    except Exception as e:
+        console.print(f"[red]Chunking failed: {e}[/red]")
+        raise typer.Exit(1)
+
+
+@app.command()
+def semantic_path(
+    input_file: str = typer.Argument(..., help="Path to input JSONL file"),
+    output_file: str = typer.Option(None, "--output", "-o", help="Output file path"),
+    verbose: bool = typer.Option(False, "--verbose", "-v", help="Enable verbose logging")
+):
+    """
+    Add semantic paths based on subtitles to JSONL file.
+    """
+    try:
+        # Set output file if not provided
+        if not output_file:
+            output_file = input_file.replace('.jsonl', '_semantic.jsonl')
+        
+        console.print(f"[cyan]Adding semantic paths to: {input_file}[/cyan]")
+        console.print(f"Output file: {output_file}")
+        
+        # Process the file
+        enhance_records_with_semantic_paths(input_file, output_file)
+        
+        console.print(f"\n[green]✓ Semantic paths added successfully[/green]")
+        
+    except Exception as e:
+        console.print(f"[red]Semantic path processing failed: {e}[/red]")
         raise typer.Exit(1)
 
 

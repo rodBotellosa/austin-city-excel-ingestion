@@ -39,4 +39,24 @@ clean:
 
 # Prettify JSON output
 prettify:
-	python3 -c "import json; data = [json.loads(line) for line in open('AustinTXEnvironmentalCriteriaManualEXPORT20250102.jsonl')]; print(json.dumps(data, indent=2))" > prettified_output.json 
+	python3 -c "import json; data = [json.loads(line) for line in open('AustinTXEnvironmentalCriteriaManualEXPORT20250102.jsonl')]; print(json.dumps(data, indent=2))" > prettified_output.json
+
+# Prettify semantic JSON output
+prettify-semantic:
+	python3 -c "import json; data = [json.loads(line) for line in open('AustinTXEnvironmentalCriteriaManualEXPORT20250102_semantic.jsonl')]; print(json.dumps(data, indent=2))" > prettified_semantic_output.json
+
+# Prettify chunked semantic JSON output
+prettify-chunked:
+	python3 -c "import json; data = [json.loads(line) for line in open('AustinTXEnvironmentalCriteriaManualEXPORT20250102_semantic_chunked.jsonl')]; print(json.dumps(data, indent=2))" > prettified_chunked_output.json
+
+# Apply hierarchical chunking
+chunk:
+	austin-excel chunk AustinTXEnvironmentalCriteriaManualEXPORT20250102.jsonl --max-tokens 300
+
+# Add semantic paths
+semantic:
+	austin-excel semantic-path AustinTXEnvironmentalCriteriaManualEXPORT20250102.jsonl
+
+# Complete workflow: semantic paths + chunking
+workflow:
+	python3 process_workflow.py AustinTXEnvironmentalCriteriaManualEXPORT20250102.jsonl 
